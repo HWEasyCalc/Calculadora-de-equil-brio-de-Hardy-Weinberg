@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Calculadora-de-equil-brio-de-Hardy-Weinberg/static/css/main.11287ba5.css",
-    "main.js": "/Calculadora-de-equil-brio-de-Hardy-Weinberg/static/js/main.a3606c2a.js",
+    "main.js": "/Calculadora-de-equil-brio-de-Hardy-Weinberg/static/js/main.65131d19.js",
     "static/js/453.86eefcc2.chunk.js": "/Calculadora-de-equil-brio-de-Hardy-Weinberg/static/js/453.86eefcc2.chunk.js",
     "static/media/ufra.png": "/Calculadora-de-equil-brio-de-Hardy-Weinberg/static/media/ufra.637fa81135a51c571ffb.png",
     "index.html": "/Calculadora-de-equil-brio-de-Hardy-Weinberg/index.html",
     "main.11287ba5.css.map": "/Calculadora-de-equil-brio-de-Hardy-Weinberg/static/css/main.11287ba5.css.map",
-    "main.a3606c2a.js.map": "/Calculadora-de-equil-brio-de-Hardy-Weinberg/static/js/main.a3606c2a.js.map",
+    "main.65131d19.js.map": "/Calculadora-de-equil-brio-de-Hardy-Weinberg/static/js/main.65131d19.js.map",
     "453.86eefcc2.chunk.js.map": "/Calculadora-de-equil-brio-de-Hardy-Weinberg/static/js/453.86eefcc2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.11287ba5.css",
-    "static/js/main.a3606c2a.js"
+    "static/js/main.65131d19.js"
   ]
 }
